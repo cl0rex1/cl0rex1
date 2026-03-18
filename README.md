@@ -1,5 +1,5 @@
 # 👋 Hi, I'm cl0rex1
-
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Web+Developer;UI/UX+Designer;React+Developer" />
 💻 Web Developer / UI Designer  
 🎨 I build websites, apps, and clean user interfaces  
 🚀 I combine code + design to create modern products  
