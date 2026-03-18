@@ -1,5 +1,5 @@
 # 👋 Hi, I'm cl0rex1
-💻 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Web+Developer;UI/UX+Designer;React+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Web+Developer;UI/UX+Designer;React+Developer" />
 🎨 I build websites, apps, and clean user interfaces  
 🚀 I combine code + design to create modern products  
 
@@ -67,14 +67,8 @@
 
 ## 📫 Contact
 
-![Discord](https://img.shields.io/badge/Discord-cl0rex1-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-cl0rex1-5865F2?style=for-the-badge&logo=discord&logoColor=white) (recommend)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirlan%20Suleimenov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirlan-suleimenov-28a5873b8/)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cl0rex1)
-
----
-
-## ⚡ Fun Fact
-
-I don’t just build projects — I create **clean, modern, and user-friendly experiences** 🚀
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cl0rex1dev)
