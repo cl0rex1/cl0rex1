@@ -28,7 +28,7 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=f5f5f5)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=f5f5f5)
-![C#](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=csharp&logoColor=f5f5f5)
+![C#](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=[csharp&logoColor=f5f5f5](https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg))
 
 ### 🌐 Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
