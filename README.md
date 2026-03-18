@@ -68,7 +68,7 @@
 
 ## 📫 Contact
 
-- 💬 Discord: cl0rex1 (pls say if you from github)
+- 💬 Discord: cl0rex1 (tell me if you from github)
 - 📧 Email: gezonaq@gmail.com
 
 ---
