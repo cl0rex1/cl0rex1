@@ -1,6 +1,5 @@
 # 👋 Hi, I'm cl0rex1
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Web+Developer;UI/UX+Designer;React+Developer" />
-💻 Web Developer / UI Designer  
+💻 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Web+Developer;UI/UX+Designer;React+Developer" />
 🎨 I build websites, apps, and clean user interfaces  
 🚀 I combine code + design to create modern products  
 
@@ -68,8 +67,11 @@
 
 ## 📫 Contact
 
-- 💬 Discord: cl0rex1 (tell me if you from github)
-- 📧 Email: gezonaq@gmail.com
+![Discord](https://img.shields.io/badge/Discord-cl0rex1-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirlan%20Suleimenov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirlan-suleimenov-28a5873b8/)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cl0rex1)
 
 ---
 
