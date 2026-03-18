@@ -51,24 +51,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=cl0rex1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cl0rex1&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=cl0rex1&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 ![Discord](https://img.shields.io/badge/Discord-cl0rex1-5865F2?style=for-the-badge&logo=discord&logoColor=white) (recommend)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirlan%20Suleimenov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirlan-suleimenov-28a5873b8/)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cl0rex1dev)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cl0rex1dev)
