@@ -55,6 +55,4 @@
 
 ![Discord](https://img.shields.io/badge/Discord-cl0rex1-5865F2?style=for-the-badge&logo=discord&logoColor=white) (recommend)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirlan%20Suleimenov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirlan-suleimenov-28a5873b8/)
-
 [![Telegram](https://img.shields.io/badge/Telegram-Channel%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cl0rex1dev)
